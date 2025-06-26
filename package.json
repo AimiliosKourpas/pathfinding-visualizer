@@ -2,7 +2,7 @@
   "name": "pathfinding-visualiser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AimiliosKourpas.github.io/pathfinding-visualizer",
+  "homepage": "https://AimiliosKourpas.github.io/pathfinding-visualiser",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
